@@ -26,7 +26,7 @@ const rooms = [
     image: 'https://scontent.fvvi1-2.fna.fbcdn.net/v/t39.30808-6/480830924_1136907244799836_2741524321202829568_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_ohc=HGu6nrR0KDEQ7kNvgH5zGVL&_nc_oc=AdiIwppT3EbuL_RDiUqfGAbX1Vuca7CqgT1lS7AnbU4RfgR3dSgqr-cCcYLikm6m2dA&_nc_zt=23&_nc_ht=scontent.fvvi1-2.fna&_nc_gid=AjyiVNLixTlSkL4Acm712sK&oh=00_AYEtcGvvMTbvIp6ao2PEgTZB9MUPiADY4WGHuS9Hfso0Aw&oe=67D77182'
   },
   {
-    title: 'Habitaciones Matrimonales',
+    title: 'Habitaciones Matrimoniales',
     description: 'Habitaciones con baño privado',
     image: 'https://scontent.fvvi1-1.fna.fbcdn.net/v/t39.30808-6/481084622_1136907824799778_1551520716615059688_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=XEEf4W9kF8AQ7kNvgECO_-K&_nc_oc=Adjr2tayi-E9T7lsYAarX310sY1ilBwo3W6gMAApQnxwuvEcXp-o3ErDpW7fGWoG2oU&_nc_zt=23&_nc_ht=scontent.fvvi1-1.fna&_nc_gid=AQ9KSmsb0QSSnlkx0VsT7yo&oh=00_AYGmHn9Ipbliv1wfYoTmOjAMZI5PKM0Tl_8j6J_vwoLhcQ&oe=67D7A18D'
   },
